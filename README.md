@@ -2,11 +2,10 @@
 #### A Full Stack Web Developer 
 ![A Full Stack Web Developer ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I enjoy taking complex problems and turning them into simple and easily understandable code.I also love the logic and structure of coding and always strive to write and learn the efficient code 
+## About Me
+***
+I enjoy taking complex problems and turning them into simple and easily understandable code.I also love the logic and structure of coding and always strive to write and learn the efficient code and 1xEngineer stuck_out_tongue and coffee lover
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 
