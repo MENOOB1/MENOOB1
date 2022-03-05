@@ -10,21 +10,60 @@ I ocassionally blog and tweet about WEB related Stuff.
 
 ## Things I'm passionate about
 ***
-Web :technologist: <br>
-Open Source :octocat:<br>
-Data Structure and Algorithm :ok_man:
+* Web :technologist: <br>
+* Open Source :octocat:<br>
+* Data Structure and Algorithm :ok_man:
 <br>
 
-
-| Author   | Andrey Marinchenko                                 |
-| -------- | -------------------------------------------------- |
-| Language | ![Profile views](https://gpvc.arturio.dev/MENOOB1) |
-| Article  | About markup in the README                         |
+***
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MENOOB1 "github")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rohit-verma-7408b51ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rohit_verma_4322//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rohitverma12002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work?cursor=ZD0xJm89MCZwPTEmdj01NjU5NDc3NQ==)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/12215692/rohit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rohitvermarv/ "leetcode")  
+### Tech Stack
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+ ![Postgresql](https://img.shields.io/badge/-POSTGRESQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Atom](https://img.shields.io/badge/-Atom%20%20-333333?style=flat&logo=Atom&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse%20Studio%20Code-333333?style=flat&logo=eclipse&logoColor=007ACC)
+
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![corel](https://img.shields.io/badge/-figma-333333?style=flat&logo=Figma)
+
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MENOOB1)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Profile views](https://gpvc.arturio.dev/MENOOB1)  
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+
+<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-https:///-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rohit-verma-7408b51ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohit%20Verma-red?style=flat-square&logo=linkedin"></a>
+<a href="mailto:rv432233@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rv432233@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://leetcode.com/rohitvermarv/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-rohitvermarv/-red?style=flat-square&logo=leetcode"></a>
+</p>
