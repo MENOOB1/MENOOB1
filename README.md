@@ -10,8 +10,8 @@ I ocassionally blog and tweet about WEB related Stuff.
 
 ## Things I'm passionate about
 ***
-WEB :technologist:
-OPEN SOURCE :octocat:
+WEB :technologist: <br>
+OPEN SOURCE :octocat:<br>
 ALGORITHMS :ok_man:
 
 
