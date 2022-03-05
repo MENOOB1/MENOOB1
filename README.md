@@ -19,7 +19,6 @@ I ocassionally blog and tweet about WEB related Stuff.
 
 
 ### Tech Stack
-
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -40,23 +39,15 @@ I ocassionally blog and tweet about WEB related Stuff.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Atom](https://img.shields.io/badge/-Atom%20%20-333333?style=flat&logo=Atom&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse%20Studio%20Code-333333?style=flat&logo=eclipse&logoColor=007ACC)
-
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![corel](https://img.shields.io/badge/-figma-333333?style=flat&logo=Figma)
 
 <br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MENOOB1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
