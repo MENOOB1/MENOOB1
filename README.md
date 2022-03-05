@@ -10,9 +10,9 @@ I ocassionally blog and tweet about WEB related Stuff.
 
 ## Things I'm passionate about
 ***
-WEB :technologist: <br>
-OPEN SOURCE :octocat:<br>
-ALGORITHMS :ok_man:
+Web :technologist: <br>
+Open Source :octocat:<br>
+Data Structure and Algorithm :ok_man:
 
 
 
