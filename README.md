@@ -53,6 +53,6 @@ I ocassionally blog and tweet about WEB related Stuff.
 
 <a href=""><img alt="Website" src="https://img.shields.io/badge/Website-https:///-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rohit-verma-7408b51ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohit%20Verma-red?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rv432233@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rv432233@gmail.com-red?style=flat-square&logo=gmail"></a>
-<a href="https://leetcode.com/rohitvermarv/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-rohitvermarv/-red?style=flat-square&logo=leetcode"></a>
+<a href="mailto:rohitverma12002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rv432233@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://leetcode.com/Bajie_2002/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-rohitvermarv/-red?style=flat-square&logo=leetcode"></a>
 </p>
